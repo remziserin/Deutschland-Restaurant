@@ -16,7 +16,7 @@ Dieses Projekt ist eine **moderne und responsive Webdesign-Lösung** für **Germ
 Alternativ können Sie die statische Version mit HTML und CSS direkt anzeigen.
 
 ## 📸 Screenshot
-
+#Mobile Responsive -> (mobile.jpeg)
 ![Screenshot](screen.jpeg)
 
 ## 💎 Kontakt
