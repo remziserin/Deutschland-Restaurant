@@ -17,7 +17,7 @@ Alternativ können Sie die statische Version mit HTML und CSS direkt anzeigen.
 
 ## 📸 Screenshot
 
-![Screenshot](screen.jpg)
+![Screenshot](screen.jpeg)
 
 ## 💎 Kontakt
 
